@@ -1,4 +1,4 @@
-index,country,year, gdp_for_year ($) ,gdp_per_capita ($),agg_population
+index,country,year,gdp_for_year,gdp_per_capita,agg_population
 132,Albania,2000,"3,632,043,908",1299,2796300
 144,Albania,2001,"4,060,758,804",1451,2799349
 156,Albania,2002,"4,435,078,648",1573,2818839

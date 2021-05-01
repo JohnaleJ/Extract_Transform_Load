@@ -1,4 +1,4 @@
-country,year,sex,age,suicides_no,population,suicides/100k pop, gdp_for_year ($) ,gdp_per_capita ($),generation
+country,year,sex,age,suicides_no,population,suicides_100k_pop,gdp_for_year,gdp_per_capita,generation
 Albania,2000,male,25-34 years,17,232000,7.33,"3,632,043,908",1299,Generation X
 Albania,2000,male,55-74 years,10,177400,5.64,"3,632,043,908",1299,Silent
 Albania,2000,female,75+ years,2,37800,5.29,"3,632,043,908",1299,G.I. Generation

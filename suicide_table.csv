@@ -1,4 +1,4 @@
-country,year,sex,age,suicides_no,suicides/100k pop,generation
+country,year,sex,age,suicides_no,suicides_100k_pop,generation
 Albania,2000,male,25-34 years,17,7.33,Generation X
 Albania,2000,male,55-74 years,10,5.64,Silent
 Albania,2000,female,75+ years,2,5.29,G.I. Generation
